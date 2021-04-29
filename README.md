@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sergi-Frances
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning React and Symfony
+- 💞️ I’m looking to collaborate on anything insteresting
+- 📫 How to reach me francessergi@hotmail.com
